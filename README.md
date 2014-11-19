@@ -1,24 +1,27 @@
-ClassPULSE
+ClassPULSE | Pre-I/O Google Glass Hackathon
 ==========
+
+Team: David Lee, Lance Nanek, Alec Garcia, Michael Huh, Ibrahim Kabil
 
 See how much of the class really understands the material or if the teacher should slow down. Live, beautiful data feed from multi-user Google Glass!
 
-Event page:
-http://www.eventbrite.com/e/pre-io-google-glass-hackathon-tickets-11494645795
+Event Page: http://www.eventbrite.com/e/pre-io-google-glass-hackathon-tickets-11494645795
 
-ChallengePost:
-http://preioglasshack.challengepost.com/
+ChallengePost: http://preioglasshack.challengepost.com/
 
-Lightning talks:
-	design for 15 seconds glances, not long use
-	big text
-	different colors
-	read outloud
-	picture on left, text on right
-		glance at picture for quick ident
-		
-Command line way to quickly move the graph:
-curl -H "Content-Type: application/json" -d '{"className":"ADV 320F","lon":-122.47268514,"email":"whatever@gmail.com","lat":37.71363595,"dontUnderstandCount":42,"understandCount":0}' http://gpop-server.com/classpulse/graph.php
+Inspiration: Previous negative experience in a large public university where a big class gets as big as 300 students with 1 professor.
 
-WiFi:
-houstonrockets
+    No engagement between the students and the professor
+    Professor unable to gauge the comprehension level of the students
+
+Target Users: College Students in Public University
+
+Key Features:
+
+    Natural head gesture data Input
+    Create a virtual class using Google Glass voice command
+    Create and find a virtual Class using the location data
+        Web Historic Data (soundcloud like)
+    Visual Graph on Google Glass
+    Integration among Glass, Mobile, and Web
+
