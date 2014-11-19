@@ -1,4 +1,4 @@
-ClassPULSE | Pre-I/O Google Glass Hackathon
+ClassUP! | Pre-I/O Google Glass Hackathon
 ==========
 
 Team: David Lee, Lance Nanek, Alec Garcia, Michael Huh, Ibrahim Kabil
