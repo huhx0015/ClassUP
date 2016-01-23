@@ -7,11 +7,15 @@ Team: David Lee, Lance Nanek, Alec Garcia, Michael Huh, Ibrahim Kabil
 
 See how much of the class really understands the material or if the teacher should slow down. Live, beautiful data feed from multi-user Google Glass!
 
-Website: http://gpop-server.com/classpulse/
+Event: Pre-I/O Google Glass Hackathon
+
+Event Time: Friday, June 20, 2014 at 7:00 PM - Saturday, June 21, 2014 at 7:00 PM (PDT)
+
+Event Website: http://www.eventbrite.com/e/pre-io-google-glass-hackathon-tickets-11494645795
 
 ChallengePost: http://preioglasshack.challengepost.com/
 
-Event Page: http://www.eventbrite.com/e/pre-io-google-glass-hackathon-tickets-11494645795
+Website: http://gpop-server.com/classpulse/
 
 Inspiration: Previous negative experience in a large public university where a big class gets as big as 300 students with 1 professor.
 
