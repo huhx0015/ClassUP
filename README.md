@@ -3,11 +3,15 @@ ClassUP! | Pre-I/O Google Glass Hackathon
 
 Team: David Lee, Lance Nanek, Alec Garcia, Michael Huh, Ibrahim Kabil
 
+![classup_preview](https://cloud.githubusercontent.com/assets/1645482/12527230/7cf5b774-c12c-11e5-9b38-05df8dfbc6f5.png)
+
 See how much of the class really understands the material or if the teacher should slow down. Live, beautiful data feed from multi-user Google Glass!
 
-Event Page: http://www.eventbrite.com/e/pre-io-google-glass-hackathon-tickets-11494645795
+Website: http://gpop-server.com/classpulse/
 
 ChallengePost: http://preioglasshack.challengepost.com/
+
+Event Page: http://www.eventbrite.com/e/pre-io-google-glass-hackathon-tickets-11494645795
 
 Inspiration: Previous negative experience in a large public university where a big class gets as big as 300 students with 1 professor.
 
