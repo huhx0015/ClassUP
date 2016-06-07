@@ -1,7 +1,6 @@
 /app/build
 /glassprogressbar/build
 /testwithlibrary/build
-/.idea
 *.iml
 .gradle
 /local.properties
