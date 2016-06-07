@@ -1,3 +1,6 @@
+/.settings
+/testwithlibrary/.settings
+/testwithlibrary/gen
 # built application files
 *.apk
 *.ap_
