@@ -24,7 +24,7 @@ See how much of the class really understands the material or if the teacher shou
 
 ## Inspiration
 
-Previous negative experience in a large public university where a big class gets as big as 300 students with 1 professor.
+Previous negative experience in a large public university where a big class gets as big as 300 students with a single professor.
 
 * No engagement between the students and the professor
 * Professor unable to gauge the comprehension level of the students
